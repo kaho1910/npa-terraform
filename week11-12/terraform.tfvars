@@ -1,0 +1,8 @@
+aws_access_key = "ASIARTS5QV5GD2LS5YGX"
+
+aws_secret_key = "/DK1UwQGKnvt6HmQhZRw2wgDMIpzGKzNPoP8ulVu"
+
+token = "FwoGZXIvYXdzEGwaDK74WSa8lWELXJVQXSLIAWVFIwavn34SCTN4Y7nAORL58xHMceSwa8LY35f8Wvp42PuyV5UcBi+LjK7QgXJbcYtdB+hpdvNBstdJDe2sggX4GYBX9h7hIOvE6Hw+2IKkzQqjVs0m/4tYN3bbBrXCnX2V7tK3IvPZ2g7L7cP3+GkZUPio+jQUYqRAob2civoXVweW+fi5gQIRKW9LY4HbcVtJWYHiyZYGEJ0WN+Cwd6xZ+K30NPl2ohJw9Ihg7EHv7K0ck99+lMNZ6Pa6qUk2qHCuiGEIJ6MHKKyL+KEGMi2HXISrpbLo3/JpZKOjYNeQjgoCe517jUVh9Rr7D4ijES9btoyC+uPJLnVIJxc="
+
+# Local path to secret key
+#private_key_path = ""
