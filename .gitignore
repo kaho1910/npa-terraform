@@ -1,0 +1,3 @@
+*.zip
+Assignment/.terraform
+Assignment/.terraform.lock.hcl
